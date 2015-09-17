@@ -1,7 +1,7 @@
 layout: post
 title:  "jsp四大作用域"
 date:   2015-09-16 
-categories: 
+categories: 作用域
 excerpt: 作用域的区别
 ---
 
